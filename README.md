@@ -10,7 +10,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoSuzuki&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoSuzuki&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=ThiagoSuzuki&hide=php&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=ThiagoSuzuki&hide=php&theme=tokyonight)
 
