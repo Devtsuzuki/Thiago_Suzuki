@@ -7,16 +7,21 @@
 
 Iniciante na carreira de Desenvolvedor.
 
-Atualmente busco oportunidades de alavancagem e aprendizado através de cursos e bootcamps.
+Atualmente busco oportunidades de aprendizado através de cursos e bootcamps com a intenção de me tornar um desenvolvedor.
 
-Tecnologias que estudo atualmente: HTML, CSS, Java.
 
- <h4>Languages and Tools</h4>
+<div align="center">
+<h4 align="center">Languages and Tools</h4>
 
-<p> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
- 
+![Windows 10 v20H2](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MarkDown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+</div>
 <b>:milky_way: GitHub Stats</b><br>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoSuzuki&show_icons=true&theme=dark)
- 
 ![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=ThiagoSuzuki&hide=php&theme=dark)
+
