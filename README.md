@@ -7,7 +7,7 @@
 
 Iniciante na carreira de Desenvolvedor.
 
-Atualmente busco oportunidades de aprendizado através de cursos e bootcamps com a intenção de me tornar um desenvolvedor.
+Atualmente busco oportunidades de aprendizado através de cursos e bootcamps com a intenção de me tornar um desenvolvedor e ir cada vez mais fundo no mundo da tecnologia.
 
 </div>
 <div align="center">
