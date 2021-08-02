@@ -24,4 +24,5 @@ Cursando atualmente Santander Bootcamp | Fullstack Developer pela DIO.
 <b>:milky_way: GitHub Stats</b><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoSuzuki&show_icons=true&theme=dark)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=ThiagoSuzuki&hide=php&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSuzuki&layout=compact&theme=dark)
