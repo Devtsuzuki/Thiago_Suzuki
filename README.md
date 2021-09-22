@@ -1,7 +1,7 @@
 <div align="center"><h1>Thiago Suzuki</h1>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ThiagoSuzuki)](https://github.com/ThiagoSuzuki)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-marcus-suzuki-72887096/)](https://www.linkedin.com/in/thiago-marcus-suzuki-72887096//)</div>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-marcus-suzuki-72887096/)](https://www.linkedin.com/in/thiago-suzuki//)</div>
 <div align="center">
 <h3>Sobre mim</h3>
 
