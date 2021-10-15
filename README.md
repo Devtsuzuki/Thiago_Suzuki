@@ -29,6 +29,9 @@ Iniciante na carreira de Desenvolvedor.
 
 <b>:milky_way: GitHub Stats</b><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoSuzuki&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSuzuki&layout=compact&theme=dark)
+<div>
+  <a href="https://github.com/ThiagoSuzuki/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=ThiagoSuzuki&show_icons=true&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoSuzuki&&layout=compact&theme=tokyonight" />
+  </a>
+</div>
