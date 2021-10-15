@@ -8,6 +8,7 @@
 Iniciante na carreira de Desenvolvedor.
 
 - Atualmente busco oportunidades e estudando com a meta de me tornar um desenvolvedor.
+- Focando em estudar a base antes de começar a me aprofundar em alguma tecnologia envolvida no front-end/back-end.
 - Estudando CSS e Javascript.
 
 </div>
