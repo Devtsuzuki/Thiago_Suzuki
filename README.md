@@ -8,7 +8,7 @@
 Iniciante na carreira de Desenvolvedor.
 
 - Atualmente busco oportunidades e estudando com a meta de me tornar um desenvolvedor.
-- Estudando CSS e Javascript.
+- Estudando CSS e JavaScript.
 
 </div>
 
