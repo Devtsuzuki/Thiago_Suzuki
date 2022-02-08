@@ -7,8 +7,7 @@
 
 Iniciante na carreira de Desenvolvedor.
 
-- Atualmente busco oportunidades e estudando com a meta de me tornar um desenvolvedor.
-- Estudando CSS e JavaScript.
+Atualmente em transição de carreira aos quase 30 anos, comecei o processo de migração há cerca de 6 meses estudando HTML, CSS. No momento estou buscando aperfeiçoar o conhecimento em JavaScript para posteriormente trabalhar com React no ramo de aplicativos.
 
 </div>
 
