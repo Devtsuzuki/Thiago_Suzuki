@@ -7,7 +7,7 @@
 
 Iniciante na carreira de Desenvolvedor.
 
-Atualmente em transição de carreira aos quase 30 anos, comecei o processo de migração há cerca de 6 meses estudando HTML, CSS. No momento estou buscando aperfeiçoar o conhecimento em JavaScript para posteriormente trabalhar com React.
+Atualmente em transição de carreira aos quase 30 anos, comecei o processo de migração há cerca de 6 meses estudando HTML, CSS. No momento estou aprendendo JavaScript.
 
 </div>
 
