@@ -7,7 +7,7 @@
 
 Iniciante na carreira de Desenvolvedor.
 
-Atualmente em transição de carreira aos 30 anos, comecei o processo de migração há cerca de 8 meses estudando HTML e CSS. No momento estou aprendendo JavaScript.
+Atualmente em transição de carreira aos 30 anos, estudando HTML e CSS. No momento estou aprendendo JavaScript e C#.
 
 </div>
 
