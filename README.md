@@ -7,7 +7,10 @@
 
 Iniciante na carreira de Desenvolvedor.
 
-Atualmente em transição de carreira aos 30 anos, estudando HTML e CSS. No momento estou aprendendo JavaScript e C#.
+Atualmente em transição de área aos 30 anos
+HTML, CSS, Bootstrap, um básico de JavaScript e C# para plataforma .Net
+Comecei o processo de migração há cerca de 8 meses.
+No momento estou buscando a primeira oportunidade como dev.
 
 </div>
 
