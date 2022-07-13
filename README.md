@@ -8,9 +8,10 @@
 Iniciante na carreira de Desenvolvedor.
 
 Atualmente em transição de área aos 30 anos.
-Sei HTML, CSS, Bootstrap, um básico de JavaScript, SQL e C# para plataforma .Net
-Comecei o processo de migração há cerca de 11 meses.
-No momento estou buscando a primeira oportunidade como dev.
+Sei HTML, CSS e Bootstrap com foco no Front-end.
+Estudando atualmente JavaScript e C# para .Net
+Comecei o processo de migração há quase um ano.
+No momento estou buscando a primeira oportunidade como desenvolvedor iniciante ou júnior.
 
 </div>
 
