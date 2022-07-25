@@ -13,8 +13,9 @@ Estudando atualmente JavaScript e C# para .NET
 Comecei o processo de migração há quase um ano.
 No momento estou buscando a primeira oportunidade como desenvolvedor iniciante ou júnior.
 
+- Ferramentas: Visual Studio, Visual Studio Code.
 - Tecnologias: HTML5, CSS3, C#, .NET e JavaScript.
-- Atualmente aprendendo: JavaScript, conceitos de API, C#.
+- Atualmente aprendendo: C#, SQL, ASP.NET e Blazor.
 
 
 <hr>
