@@ -5,8 +5,6 @@
 
 <h3>Sobre mim</h3>
 
-Iniciante na carreira de Desenvolvedor.
-
 Atualmente em transição de área aos 30 anos.
 Estudando atualmente JavaScript e C# para .NET
 Comecei o processo de migração há quase um ano.
