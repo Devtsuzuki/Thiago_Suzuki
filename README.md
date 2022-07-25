@@ -11,8 +11,8 @@ Comecei o processo de migração há quase um ano.
 No momento estou buscando a primeira oportunidade como desenvolvedor iniciante ou júnior.
 
 - Ferramentas: Visual Studio, Visual Studio Code.
-- Tecnologias: HTML5, CSS3, JavaScript, Bootstrap,  Tailwind CSS, C# e .NET.
-- Atualmente aprendendo: C#, SQL, ASP.NET e Blazor.
+- Tecnologias: HTML5, CSS3, JavaScript, Bootstrap,  Tailwind CSS e C# .NET.
+- Atualmente aprendendo: C# .NET, SQL, ASP.NET e Blazor.
 
 <hr>
 
