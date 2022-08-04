@@ -6,7 +6,7 @@
 
 Atualmente em transição de área aos 30 anos.
 Estudando atualmente JavaScript e C# para .NET
-Comecei o processo de migração há quase um ano.
+Comecei o processo de migração há um ano.
 No momento estou buscando a primeira oportunidade como desenvolvedor iniciante ou júnior.
 
 - Ferramentas: Visual Studio, Visual Studio Code.
