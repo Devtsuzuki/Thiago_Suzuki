@@ -10,7 +10,7 @@ Comecei o processo de migração há um ano.
 No momento estou buscando a primeira oportunidade como desenvolvedor iniciante ou júnior.
 
 - Tecnologias: HTML5, CSS3, JavaScript, Bootstrap, SQL, C# e .NET.
-- Atualmente aprendendo: C# .NET, SQL, ASP.NET e Blazor.
+- Atualmente aprendendo: C# .NET, SQL, ASP.NET.
 
 <hr>
 
