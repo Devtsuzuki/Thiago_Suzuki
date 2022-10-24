@@ -9,8 +9,9 @@ Estudando atualmente JavaScript e C# para .NET
 Comecei o processo de migração há um ano.
 No momento estou buscando a primeira oportunidade como desenvolvedor iniciante ou júnior.
 
-- Tecnologias: HTML5, CSS3, JavaScript, Bootstrap, SQL, C# e .NET.
-- Atualmente aprendendo: C# .NET, SQL, ASP.NET.
+- Tecnologias: HTML5, CSS3, JavaScript, SQL, C# e .NET.
+- Frameworks: Bootstrap, .NET framework.
+- Atualmente aprendendo: Java, C# .NET, SQL, ASP.NET.
 
 <hr>
 
