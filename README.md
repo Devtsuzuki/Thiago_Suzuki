@@ -7,7 +7,7 @@
 Atualmente em transição de área aos 30 anos.
 Estudando atualmente JavaScript e C# para .NET
 Comecei o processo de migração há um ano.
-No momento estou buscando a primeira oportunidade como desenvolvedor iniciante ou júnior.
+No momento estou buscando a primeira oportunidade como desenvolvedor júnior.
 
 - Tecnologias: HTML5, CSS3, JavaScript, SQL, C# e .NET.
 - Frameworks: Bootstrap, .NET framework.
