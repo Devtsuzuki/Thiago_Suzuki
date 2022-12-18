@@ -5,7 +5,7 @@
 <h3>Sobre mim</h3>
 
 Atualmente em transição de área aos 30 anos.
-Estudando atualmente JavaScript e C# para .NET
+Estudando atualmente JavaScript e C# para .NET <br>
 Comecei o processo de migração há um ano.
 No momento estou buscando a primeira oportunidade como desenvolvedor júnior.
 
