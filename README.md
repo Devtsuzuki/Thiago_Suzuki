@@ -5,7 +5,9 @@
 <h3>Sobre mim</h3>
 
 Sou formado Tecnólogo em Redes mas atualmente estou fazendo transição de área para desenvolvimento de software.
+
 Estudando atualmente JavaScript/Node.js e C# para .NET para desenvolver sistemas web com ASP.NET no front
+
 Iniciei o processo de migração há um ano. No momento estou buscando a primeira oportunidade como desenvolvedor júnior back-end ou front-end.
 
 - Tecnologias: HTML5, CSS3, JavaScript, SQL, C# e .NET.
