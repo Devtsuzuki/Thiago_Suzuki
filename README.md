@@ -1,11 +1,10 @@
 <h1>Thiago Suzuki</h1>
-<h3>Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagosuzuki&label=Profile%20views&color=0e75b6&style=flat" alt="thiagosuzuki" /> </p>
 
-- 🌱 I’m currently learning **Java, .NET, JavaScript(ES6)**
+- 🌱 Atualmente estou aprendendo **.NET, JS**
 
-- 👨‍💻 All of my projects are available at [https://thiagosuzuki.github.io/](https://thiagosuzuki.github.io/)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://thiagosuzuki.github.io/](https://thiagosuzuki.github.io/)
 
 <h3 align="left">Redes sociais</h3>
 <p align="left">
