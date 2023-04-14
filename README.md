@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagosuzuki&label=Profile%20views&color=0e75b6&style=flat" alt="thiagosuzuki" /> </p>
 
-- 🌱 Atualmente estou aprendendo **.NET, JS**
+- 🌱 Atualmente estou aprendendo **.NET, JS, Angular**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://thiagosuzuki.github.io/](https://thiagosuzuki.github.io/)
 
