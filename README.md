@@ -6,7 +6,6 @@
 
 <h3 align="left">Redes sociais</h3>
 <p align="left">
-<a href="https://dev.to/thiago_suzuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="thiago_suzuki" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/thiago-suzuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thiago-suzuki" height="30" width="40" /></a>
 </p>
 
